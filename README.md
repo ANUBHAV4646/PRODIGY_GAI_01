@@ -19,11 +19,11 @@ GPT-2 is a powerful pre-trained language model capable of generating human-like 
 
 **Libraries Used:**
 
-**Transformers**: Pre-trained model and tokenizer from Hugging Face
+-Transformers: Pre-trained model and tokenizer from Hugging Face
 
-**Datasets**: Dataset handling and loading
+-Datasets: Dataset handling and loading
 
-**PyTorch**: Model training backend
+-PyTorch: Model training backend
 
 
 
