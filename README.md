@@ -29,7 +29,6 @@ GPT-2 is a powerful pre-trained language model capable of generating human-like 
 
 **About:**
 
-This project is part of the Prodigy InfoTech Internship Program to demonstrate practical NLP model training and deployment.
-
+This project is part of the Prodigy InfoTech Internship Program. It demonstrates how to fine-tune OpenAI’s GPT-2 model on a custom dataset to generate coherent and contextually relevant text. The project highlights practical applications of natural language processing (NLP) by adapting a pre-trained transformer model to produce text in the style and structure of your own data.
 
 
